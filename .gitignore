@@ -1,0 +1,6 @@
+*.pyc
+src/*.o
+src/*.so
+src/_*
+src/*_wrap.c
+src/*_wrap.o
