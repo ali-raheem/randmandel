@@ -4,6 +4,10 @@ Generate the Mandelbrot pattern and randomly colour it with 256 colours.
 
 Uses some code from [Julia](https://github.com/wolfmankurd/Julia/).
 
+## Sample
+
+![Sample output](output.png)
+
 ## Usage
 
 ```
